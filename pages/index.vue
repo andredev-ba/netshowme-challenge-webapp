@@ -7,7 +7,7 @@
       </h1>
       <div class="links">
         <NuxtLink tag="a" class="button--grey" to="/contacts/form-page">Formulário de Contato</NuxtLink>
-        <NuxtLink tag="a" class="button--grey" to="/contacts/list">Lista de Contatos</NuxtLink>
+        <NuxtLink tag="a" class="button--grey" to="/contacts/list-page">Lista de Contatos</NuxtLink>
       </div>
     </div>
   </div>
